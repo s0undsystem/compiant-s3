@@ -95,7 +95,7 @@ This primitive is intended to be applied from the `primitives/compliant-s3` dire
 Example variable assignment:
 
 ```hcl
-project_name = "testi"
+project_name = "test"
 environment  = "dev"
 # bucket_suffix = "custom123"  # optional
 ```
